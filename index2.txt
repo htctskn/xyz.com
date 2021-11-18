@@ -1,0 +1,4 @@
+
+fuction sendMessage(){
+//e posta gönderme kodları
+//sdsfhsgjfdklffg
